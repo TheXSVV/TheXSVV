@@ -7,6 +7,7 @@
 * OpenGL 2.0/3.0/4.1
 * OpenGLES 2.0/3.0
 * Android development
+* Python 3 junior (ненавижу этот язык удалите его нахуй)
 
 ## 📂 Projects:
 #### Они приватные лол / They're private lol
