@@ -1,7 +1,7 @@
 ## 💻 Desktop / 📱 Mobile / 🎮 Game developer
-## Обо мне:
+
 #### Возраст: 14 лет / Age: 14 years
-#### Опыт в языка[ / Language experience:
+#### Опыт в языках / Language experience:
 * Java middle (maybe senior) developer
 * C++ beginner
 * OpenGL 2.0/3.0/4.1
