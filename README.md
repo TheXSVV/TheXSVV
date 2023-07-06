@@ -13,4 +13,4 @@
 #### Они приватные лол / They're private lol
 
 ## 📚 Templates/Libs to learn or use:
-* [EventManager](https://github.com/TheXSVV/EventManager) modern c++11
+* [EventManager](https://github.com/TheXSVV/EventManager) - Modern C++11
