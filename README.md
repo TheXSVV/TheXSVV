@@ -14,3 +14,4 @@
 
 ## 📚 Templates/Libs to learn or use:
 * [EventManager](https://github.com/TheXSVV/EventManager) - Modern C++11
+* [AnnotatedConfigs](https://github.com/TheXSVV/AnnotatedConfigs) - Java 8 configs based on annotations
