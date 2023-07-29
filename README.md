@@ -1,17 +1,3 @@
-## 💻 Desktop / 📱 Mobile / 🎮 Game developer
+# 💻 Desktop / 📱 Mobile / 🎮 Game / 🗄 Server developer
 
-#### Возраст: 14 лет / Age: 14 years
-#### Опыт в языках / Language experience:
-* Java middle (maybe senior) developer
-* C++ beginner
-* OpenGL 2.0/3.0/4.1
-* OpenGLES 2.0/3.0
-* Android development
-* Python 3 junior (ненавижу этот язык удалите его нахуй)
-
-## 📂 Projects:
-#### Они приватные лол / They're private lol
-
-## 📚 Templates/Libs to learn or use:
-* [EventManager](https://github.com/TheXSVV/EventManager) - Modern C++11
-* [AnnotatedConfigs](https://github.com/TheXSVV/AnnotatedConfigs) - Java 8 configs based on annotations
+<img alt="meme" src="https://i.ibb.co/5FZv2Qg/image.png">
