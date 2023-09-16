@@ -1,3 +1,3 @@
-# 💻 Desktop / 📱 Mobile / 🎮 Game / 🗄 Server developer
+# 💻 Desktop / 📱 Mobile / 🗄 Software developer
 
-<img alt="meme" src="https://i.ibb.co/5FZv2Qg/image.png">
+![meme](https://i.ibb.co/x3YG9dM/image.png)
